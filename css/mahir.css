@@ -38,10 +38,11 @@
   font-size: 1.2vw;
   margin-left: -1vw;
 }
-.dropdown button {
+.dropdown button{
   background-color: transparent;
   color: gray;
   border: none;
+  
 }
 .dropdown button:hover {
   color: #0f52ba;
